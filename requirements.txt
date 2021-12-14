@@ -1,2 +1,2 @@
-flask
-colorama
+requests
+hashlib
